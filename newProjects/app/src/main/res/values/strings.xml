@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Name</string>
+    <string name="chat_with_bot">Chat with Bot.</string>
+    <string name="generate_image">Generate Image</string>
+</resources>
